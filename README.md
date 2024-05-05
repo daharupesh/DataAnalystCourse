@@ -1,2 +1,2 @@
 # DataAnalystCourse
-This is Full Data Analyst Course
+This is a Full Data Analyst Course
